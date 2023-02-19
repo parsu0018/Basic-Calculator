@@ -22,10 +22,10 @@ pyhton3 calculator.py
 # HOW TO USE THIS TOOL
 There are multiple operations use according to it,  follow the below instructions---
 
-for the ADDITION USE '+'
-for the SUBSTRACTION USE '-'
-for the DIVISION USE '*'
-for the MULTIPLICATION USE '/'
+for the ADDITION USE '+' ,
+for the SUBSTRACTION USE '-' ,
+for the DIVISION USE '*' ,
+for the MULTIPLICATION USE '/' .
 
 
 

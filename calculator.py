@@ -1,5 +1,13 @@
 # Here we create the Calculator 
 
+print(''' 
+      1.select + for addition of numbers
+      2.select - for substraction of numbers
+      3.select * for multiplication of numbers
+      4.select / for division of numbers
+      Note: Use Appropriate operation on numbers
+      ''')
+
 # take the  fist user input here
 number1=int(input("Enter the fisrt value :"))
 
@@ -8,11 +16,6 @@ opertion=(input("Enter the Operation for the values :"))
 
 # take the second user input here
 number2=int(input("Enter the second value :"))
-
-# addition=(number1+number2)
-# substraction=(number1-number2)
-# division=(number1//number2)
-# multiplication=(number1*number2)
 
 
 # Here we write the code for conditions
